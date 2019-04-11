@@ -1,0 +1,19 @@
+section{
+    border:1px solid lightgray;
+    border-radius:5px;
+    padding:5px;
+    margin:10px;
+    font-weight: bold;
+    background-color:rgb(245,245,245);
+    width:500px;
+    cursor:pointer;
+}
+
+section div{
+    font-weight: normal;
+    background-color:white;
+    padding:5px;
+    margin:5px;
+    cursor:auto;
+    display: anything;
+}
